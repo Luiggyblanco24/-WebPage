@@ -1,0 +1,1 @@
+alert "pagina de comidas"
